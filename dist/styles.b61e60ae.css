@@ -1,0 +1,40 @@
+.logo {
+    display:flex;
+    width: 700px;
+    height: 700px;
+    background: radial-gradient(circle at bottom left, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+    border-radius: 20%;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .inner-box {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    background: transparent;
+    justify-content: center;
+    border-radius: 20%;
+    border: solid 40px white;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .big-circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 40px white
+  }
+  
+  .small-circle{
+    position: relative;
+    top: -70px;
+    left: 210px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+  }
+
+/*# sourceMappingURL=/styles.b61e60ae.css.map */
