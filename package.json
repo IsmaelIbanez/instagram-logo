@@ -1,7 +1,6 @@
 {
   "name": "instagram-logo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel serve src/index.html",
@@ -9,5 +8,6 @@
     "deploy": "gh-pages -d build"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
